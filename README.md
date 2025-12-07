@@ -13,26 +13,30 @@ A minimal AI coding assistant powered by Claude
 - 🚀 Lightweight and easy to use
 - 🔧 Simple setup with minimal dependencies
 
-## Quick Start
+## Installation
 
 ```bash
 # Clone the repository
 git clone https://github.com/SeungyounShin/yet-another-claude-code.git
 cd yet-another-claude-code
 
-# Install dependencies
-pip install -r requirements.txt
+# Install the package
+pip install -e .
+```
 
+## Quick Start
+
+```bash
 # Set your API key
 export ANTHROPIC_API_KEY="your-api-key-here"
 
-# Run
-python run.py
+# Run yacc
+yacc
 ```
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.10+
 - Anthropic API Key
 
 ## License
